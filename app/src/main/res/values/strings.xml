@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Caller</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="description_search_button">search</string>
+    <string name="description_dial_button">dial</string>
+    <string name="description_delete_button">backspace</string>
+
+    <string name="codecs">Audio Codecs</string>
+
+</resources>
